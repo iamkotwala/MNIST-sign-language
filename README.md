@@ -7,15 +7,21 @@
 * Haar Cascade files for hand needs to be updated
 
 ### Tools & Technology Used: ###
-* Tensorflow, NumPy, Keras, CV2
 * Spyder
 * Anaconda
+
+### Dependencies: ###
+* Tensorflow2 
+* NumPy
+* CV2
 
 ### Langauges ###
 * Python
 
 ### GUI ###
-https://github.com/iamkotwala/MNIST-sign-language/blob/master/gui.mp4
-
+<h1 align="center">
+	<img width="600" src="https://raw.githubusercontent.com/iamkotwala/MNIST-sign-language/master/gui.png" border="5">
+	<br>
+</h1>
 
 [Dataset on Kaggle]: https://www.kaggle.com/grassknoted/asl-alphabet
